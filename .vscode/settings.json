@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\msys64\\msys2.exe",
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
